@@ -1,0 +1,28 @@
+taxon,group,cranial_capacity_cc
+Hylobates spp.,Living great ape,100
+Pan troglodytes,Living great ape,400
+Pan paniscus,Living great ape,375
+Pongo spp.,Living great ape,395
+Gorilla gorilla,Living great ape,500
+Sahelanthropus tchadensis,Early hominin,370
+Orrorin tugenensis,Early hominin,NA
+Ardipithecus ramidus,Early hominin,325
+Australopithecus anamensis,Early-middle hominin,385
+Australopithecus afarensis,Early-middle hominin,430
+Australopithecus africanus,Early-middle hominin,475
+Australopithecus garhi,Early-middle hominin,450
+Australopithecus bahrelghazali,Early-middle hominin,425
+Paranthropus aethiopicus,Early-middle hominin,410
+Paranthropus boisei,Early-middle hominin,515
+Paranthropus robustus,Early-middle hominin,535
+Homo habilis,Late-middle hominin,625
+Homo rudolfensis,Late-middle hominin,725
+Homo (Dmanisi),Late-middle hominin,665
+Homo ergaster,Late-middle hominin,800
+Homo erectus,Late hominin,1000
+Homo antecessor,Late hominin,1000
+Homo heidelbergensis,Late hominin,1200
+Homo neanderthalensis,Late hominin,1500
+Homo sapiens,Late hominin,1375
+Homo floresiensis,Late hominin,400
+Homo naledi,Late hominin,535

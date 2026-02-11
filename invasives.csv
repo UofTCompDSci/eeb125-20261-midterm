@@ -1,0 +1,26 @@
+genus,species,common_name,status
+Acer,saccharum,Sugar Maple,native
+Acer,rubrum,Red Maple,native
+Quercus,rubra,Northern Red Oak,native
+Quercus,alba,White Oak,native
+Fagus,grandifolia,American Beech,native
+Betula,alleghaniensis,Yellow Birch,native
+Betula,papyrifera,Paper Birch,native
+Fraxinus,americana,White Ash,native
+Fraxinus,pennsylvanica,Green Ash,native
+Ulmus,americana,American Elm,native
+Tilia,americana,American Basswood,native
+Carya,ovata,Shagbark Hickory,native
+Carya,cordiformis,Bitternut Hickory,native
+Prunus,serotina,Black Cherry,native
+Ostrya,virginiana,Eastern Hop-hornbeam,native
+Carpinus,caroliniana,American Hornbeam,native
+Tsuga,canadensis,Eastern Hemlock,native
+Pinus,strobus,Eastern White Pine,native
+Picea,glauca,White Spruce,native
+Abies,balsamea,Balsam Fir,native
+Rhamnus,cathartica,Common Buckthorn,invasive
+Ailanthus,altissima,Tree-of-heaven,invasive
+Robinia,pseudoacacia,Black Locust,invasive
+Ulmus,pumila,Siberian Elm,invasive
+Acer,platanoides,Norway Maple,invasive
